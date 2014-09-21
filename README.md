@@ -1,6 +1,8 @@
 CS61Aants
 =========
 
+Project implemented for CS61A.
+
 Tower defense game Ants vs Somebees based on Plants vs Zombies
 
  As the ant queen, you populate your colony with the bravest ants you can muster. 
